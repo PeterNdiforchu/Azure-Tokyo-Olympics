@@ -65,7 +65,7 @@ The data model consists of five tables:
 
 ## SQL Queries
 
-For each business question, corresponding SQL queries have been formulated. These queries can be found in the [SQL Queries](./sql_queries) directory.
+For each business question, corresponding SQL queries have been formulated. These queries can be found in the [SQL Queries](./Business Questions Tokyo Olympics.sql) directory.
 
 ## Azure Stack Components
 
